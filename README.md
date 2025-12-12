@@ -1,8 +1,10 @@
 # LEGO Sets Analysis Dashboard
+
 ## 📊 Project Link
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjlkZmZmNzEtMTQ1My00MDlkLTkwMTgtNTJhODI5Y2YwN2NlIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100" height="100" alt="Power BI"/>
 </a>
+
 ## Project Summary
 
 This Power BI project provides a comprehensive analysis of LEGO sets spanning multiple years, themes, and price ranges. The dashboard enables users to explore trends in LEGO products by analyzing key metrics such as pricing, piece counts, target age ranges, and theme popularity. It offers interactive visuals that help identify patterns in product offerings, understand market segmentation by age and price, and make data-driven decisions for collectors, retailers, or market analysts interested in the LEGO ecosystem.
